@@ -89,6 +89,6 @@
     "@devexpress/dx-grid-core": "2.7.2",
     "@devexpress/dx-react-core": "2.7.2",
     "@devexpress/dx-react-grid": "2.7.2",
-    "react": ">=16.10.2"
+    "react": ">=17.0.1"
   }
 }
